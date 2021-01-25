@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
-title = "Unicorn Inc - Smart Factories Workshop"
+title = "Azure Security"
 theme = "hugo-theme-learn"
 uglyurls = true
