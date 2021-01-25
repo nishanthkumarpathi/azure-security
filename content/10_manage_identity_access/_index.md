@@ -6,8 +6,4 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Manage Identity and Access
-
-# Some Chapter title
-
-Lorem Ipsum.
+{{% children showhidden="false" %}}

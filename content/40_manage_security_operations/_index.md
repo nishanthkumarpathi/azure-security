@@ -6,8 +6,4 @@ chapter = true
 pre = "<b>4. </b>"
 +++
 
-### Chapter X
-
-# Some Chapter title
-
-Lorem Ipsum.
+{{% children showhidden="false" %}}

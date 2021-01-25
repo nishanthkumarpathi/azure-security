@@ -6,4 +6,4 @@ chapter = true
 pre = "<b>2. </b>"
 +++
 
-### Implement Platform Protection
+{{% children showhidden="false" %}}
