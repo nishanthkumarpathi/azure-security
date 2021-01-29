@@ -1,5 +1,6 @@
 title = "Azure Security"
-baseURL = "https://nishanthkp.gitlab.io/azure-security-reva/"
+# baseURL = "https://nishanthkp.gitlab.io/azure-security-reva/"
+baseURL = "/"
 languageCode = "en-us"
 
 theme = "hugo-theme-learn"
@@ -10,4 +11,6 @@ uglyurls = true
 home = [ "HTML", "RSS", "JSON"]
 
 
+[params]
+showVisitedLinks = true
 
