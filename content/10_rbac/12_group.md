@@ -1,5 +1,5 @@
 ---
-title: "Group Creation"
+title: "1.2 Group Creation"
 date: 2021-01-29T13:37:07+03:00
 draft: false
 weight: 20

@@ -1,9 +1,8 @@
 +++
-title = "Role Based Access Control"
+title = "1. Role Based Access Control"
 date = 2021-01-25T21:25:46+03:00
 weight = 10
 chapter = true
-pre = "<b>1.</b>"
 +++
 
 In this lab you are going to

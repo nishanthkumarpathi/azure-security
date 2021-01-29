@@ -1,5 +1,5 @@
 ---
-title: "Resource Group"
+title: "1.3 Resource Group"
 date: 2021-01-29T13:43:24+03:00
 draft: false
 weight: 30
