@@ -5,4 +5,6 @@ weight = 5
 chapter = true
 +++
 
+Welcome to Cloud Security Training. In this training course we will be learning about Azure Cloud Security 
+
 {{% children showhidden="false" %}}

@@ -41,4 +41,6 @@ home = [ "HTML", "RSS", "JSON"]
   # Change the title separator. Default to "::".
   titleSeparator = "-"
 
-
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
