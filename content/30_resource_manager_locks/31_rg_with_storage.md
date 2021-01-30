@@ -1,7 +1,7 @@
 ---
 title: "3.1 Resource Group with Storage Account"
 date: 2021-01-29T15:28:53+03:00
-
+tags: ["Resource Manager","Storage Account","ReadOnly Lock","Delete Lock"]
 ---
 
 #### Task 1: Create a resource group with a storage account.

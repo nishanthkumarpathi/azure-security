@@ -3,6 +3,7 @@ title: "2.2 Allowed Locations Policy"
 date: 2021-01-29T15:18:22+03:00
 draft: false
 weight: 20
+tags: ["Azure Policy","Resource Group","Policy Assignments","Allowed Locations"]
 ---
 
 #### Task 2: Create an Allowed Locations policy assignment.

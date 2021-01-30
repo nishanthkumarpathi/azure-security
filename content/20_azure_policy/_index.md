@@ -3,6 +3,7 @@ title: "2. Azure Policy"
 date: 2021-01-29T15:12:13+03:00
 draft: false
 weight: 20
+tags: ["Azure Policy","Resource Group","Policy Assignments","Allowed Locations"]
 ---
 
 ## Lab scenario

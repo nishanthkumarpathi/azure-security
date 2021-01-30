@@ -2,6 +2,7 @@
 title: "2.3 Verify Allowed Locations Policy"
 date: 2021-01-29T15:18:39+03:00
 weight: 30
+tags: ["Azure Policy","Resource Group","Policy Assignments","Allowed Locations"]
 ---
 
 

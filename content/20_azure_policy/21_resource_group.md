@@ -3,6 +3,7 @@ title: "2.1 Resource Group"
 date: 2021-01-29T15:13:36+03:00
 draft: false
 weight: 10
+tags: ["Azure Policy","Resource Group","Policy Assignments","Allowed Locations"]
 ---
 
 
