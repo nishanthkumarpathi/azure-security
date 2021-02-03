@@ -1,4 +1,5 @@
-baseURL = "https://nishanthkp.gitlab.io/azure-security-reva/"
+#baseURL = "https://nishanthkp.gitlab.io/azure-security-reva/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Azure Security"
 
