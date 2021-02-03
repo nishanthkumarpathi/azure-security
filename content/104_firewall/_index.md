@@ -1,6 +1,7 @@
 ---
 title: "104 Azure Firewall"
 date: 2021-02-03T11:23:19+03:00
+weight: 104
 ---
 
 In this exercise, you will complete the following tasks:

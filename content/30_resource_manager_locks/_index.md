@@ -2,6 +2,7 @@
 title: "3. Resource Manager Locks"
 date: 2021-01-29T15:28:29+03:00
 draft: false
+weight: 30
 ---
 
 In this exercise, you will complete the following tasks:
