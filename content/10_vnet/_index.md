@@ -1,7 +1,7 @@
 ---
 title: "10. Vnet Infra"
 date: 2021-02-03T11:11:27+03:00
-weight: 102
+# weight: 102
 ---
 
 In this exercise, you will complete the following tasks:

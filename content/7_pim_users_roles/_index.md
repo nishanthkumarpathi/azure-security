@@ -1,7 +1,7 @@
 ---
 title: "7 Configure PIM Users & Roles"
 date: 2021-02-03T11:01:14+03:00
-weight: 70
+# weight: 70
 ---
 
 - Task 1: Make a user eligible for a role.
