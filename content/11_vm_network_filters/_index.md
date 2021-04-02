@@ -2,6 +2,7 @@
 title: "11. VM with Network Filters"
 date: 2021-02-03T11:18:28+03:00
 weight: 103
+draft: true
 ---
 
 In this exercise, you will complete the following tasks:
