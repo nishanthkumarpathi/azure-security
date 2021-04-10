@@ -2,7 +2,6 @@
 title: "6 Azure AD Identity Protection"
 date: 2021-02-03T10:50:06+03:00
 weight: 60
-draft: true
 ---
 
 In this exercise, you will complete the following tasks 
