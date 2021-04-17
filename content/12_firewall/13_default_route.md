@@ -1,5 +1,5 @@
 ---
-title: "12.3 efault Route"
+title: "12.3 Default Route"
 date: 2021-02-03T11:22:36+03:00
 weight: 30
 ---
