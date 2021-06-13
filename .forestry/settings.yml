@@ -1,0 +1,106 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content/00_getting_started
+  label: 00 getting started
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/10_vnet
+  label: 10 vnet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/11_vm_network_filters
+  label: 11 vm network filters
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/12_firewall
+  label: 12 firewall
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/13_keyvault
+  label: 13 keyvault
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/14_azure_monitor
+  label: 14 azure monitor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/15_sc
+  label: 15 sc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/1_rbac
+  label: 1 rbac
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/2_azure_policy
+  label: 2 azure policy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/3_resource_manager_locks
+  label: 3 resource manager locks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/4_mfa
+  label: 4 mfa
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/5_conditional_policies
+  label: 5 conditional policies
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/6_ad_identity_protection
+  label: 6 ad identity protection
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/7_pim_users_roles
+  label: 7 pim users roles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/8_pim_roles_approval
+  label: 8 pim roles approval
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/9_pim_audit_features
+  label: 9 pim audit features
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.81.0
