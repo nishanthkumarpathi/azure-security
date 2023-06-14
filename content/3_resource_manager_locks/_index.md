@@ -13,6 +13,3 @@ In this exercise, you will complete the following tasks:
 - Task 4: Remove the ReadOnly lock and create a Delete lock.
 - Task 5: Test the Delete lock.
 
-
-
-{{% children showhidden="false" %}}

@@ -8,5 +8,3 @@ weight: 70
 - Task 2: Configure a role to require approval to activate and add an eligible member.
 - Task 3: Give a user permanent assignment to a role. 
 
-
-{{% children showhidden="false" %}}

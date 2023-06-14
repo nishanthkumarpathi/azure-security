@@ -15,4 +15,3 @@ You have been asked to create a proof of concept showing how Azure policy can be
 
 > For all the resources in this lab, we are using the **East US** region. Verify with your instructor this is the region to use for class. 
 
-{{% children showhidden="false" %}}

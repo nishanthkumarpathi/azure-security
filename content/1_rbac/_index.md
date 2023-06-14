@@ -16,5 +16,3 @@ In this exercise, you will complete the following tasks:
 - Task 3: Create a resource group
 - Task 4: Assign the Service Desk Virtual Machine Contributor permissions.
 - Task 5: Cleanup the Resources
-
-{{% children showhidden="false" %}}

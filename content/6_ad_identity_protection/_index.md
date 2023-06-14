@@ -12,4 +12,3 @@ In this exercise, you will complete the following tasks
 - Task 4: Simulate risk events against the Azure AD Identity Protection policies 
 - Task 5: Review the Azure AD Identity Protection reports
 
-{{% children showhidden="false" %}}
